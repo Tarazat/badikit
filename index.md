@@ -1,10 +1,10 @@
-# badikit
+# BadiKit
 
 # Privacy Policy
 
 **Effective Date:** October 6, 2026
 
-We value your privacy. This Privacy Policy explains how our application handles your information. **Our core philosophy is simple: we do not monitor, collect, or store any of your personal data.**
+Your privacy is highly valued. **We do not monitor, collect, or store any of your personal data.** This Privacy Policy explains how our app (BadiKit) handles your information.
 
 ---
 
@@ -18,7 +18,7 @@ Our app operates with privacy by design. We do not use any third-party tracking 
 * **Storage:** Your location coordinates are processed in real-time. They are never sent to an external server, never stored permanently, and never shared with third parties.
 
 ### Calendar Access (Optional)
-* **Purpose:** The app requests access to your device's Calendar app solely to allow you to add sunrise, sunset, or astronomical events directly to your schedule.
+* **Purpose:** The app requests access to your device's Calendar app solely to allow you to add events directly to your schedule.
 * **Control:** This permission is entirely optional. The app will function normally without it, and you can grant or revoke this access at any time through your device's system settings.
 * **Storage:** We do not read, store, or transmit your calendar events. The app only writes the specific events you explicitly choose to save.
 
