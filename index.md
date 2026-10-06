@@ -1,0 +1,3 @@
+# badikit
+
+privacy policy
