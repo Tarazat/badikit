@@ -40,6 +40,8 @@ If you have any questions or suggestions about this Privacy Policy, do not hesit
 
 
 
+
+
 # Politique de confidentialité
 
 **Date d'entrée en vigueur :** 6 octobre 2026
