@@ -38,7 +38,8 @@ We may update our Privacy Policy from time to time. Any changes will be posted d
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at: badikit@protonmail.com
 
 
-#Politique de confidentialité
+# Politique de confidentialité
+
 **Date d'entrée en vigueur :** 6 octobre 2026
 
 Votre vie privée est de la plus haute importance. Nous ne surveillons, ne collectons ni ne stockons aucune de vos données personnelles. Cette politique de confidentialité explique comment notre application (BadiKit) traite vos informations.
