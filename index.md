@@ -1,5 +1,7 @@
 # BadiKit 
+<div align="right">
 [EN](#privacy-policy) | [FR](#politique-de-confidentialité)
+</div>
 
 # Privacy Policy
 
