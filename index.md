@@ -36,5 +36,3 @@ We may update our Privacy Policy from time to time. Any changes will be posted d
 
 ## 4. Contact Us
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at: badikit@protonmail.com
-
-* **Developer Name/Email:** [trplustr@gmail.com]
