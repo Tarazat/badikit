@@ -1,8 +1,3 @@
----
-title: "My Custom Page Title"
-layout: default
----
-
 # BadiKit 
 [FR](#politique-de-confidentialité) | [EN](#privacy-policy) 
 
