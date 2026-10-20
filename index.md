@@ -1,5 +1,6 @@
-# BadiKit 
-
+---
+title: BadiKit 
+---
 [FR](#politique-de-confidentialité) | [EN](#privacy-policy) 
 
 
