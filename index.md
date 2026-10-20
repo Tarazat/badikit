@@ -1,5 +1,6 @@
 
-# BadiKit [FR](#politique-de-confidentialité) | [EN](#privacy-policy) 
+# BadiKit 
+[FR](#politique-de-confidentialité) | [EN](#privacy-policy) 
 
 
 # Privacy Policy
