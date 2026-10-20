@@ -38,6 +38,8 @@ We may update our Privacy Policy from time to time. Any changes will be posted d
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at: badikit@protonmail.com
 
 
+
+
 # Politique de confidentialité
 
 **Date d'entrée en vigueur :** 6 octobre 2026
