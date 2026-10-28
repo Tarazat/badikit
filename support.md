@@ -2,6 +2,7 @@
 # Badi Kit 
 
 Support 28/10/2026
+
 [EN](#app-support) | [FR](#support-de-lapplication)
 
 ---
