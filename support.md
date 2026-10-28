@@ -13,9 +13,7 @@
 ### 1. Dates
 
 The Bahá’í Calendar is known as the Badí‘ Calendar.
-
 The current date is displayed at the top of the Kit screen. Each day begins at sunset.
-
 More details can be found at Bahai.org https://www.bahai.org/action/devotional-life/calendar
 
 ### 2. Qiblih Compass
@@ -37,3 +35,30 @@ Widgets are available
 
 
 # App Support Fr
+
+## Contact
+
+## Contact Fr
+
+### 1. Dates
+
+Le calendrier bahá’í est connu sous le nom de calendrier badí‘.
+La date actuelle est affichée en haut de l'écran Kit. Chaque journée commence au coucher du soleil.
+Pour plus de détails, rendez-vous sur [Bahai.org](https://www.bahai.org/action/devotional-life/calendar)
+
+### 2. Boussole Qiblih
+
+La boussole peut être utilisée comme outil de référence pour trouver la direction du Tombeau de Bahá’u’lláh.
+
+Le relèvement est calculé par rapport au nord géographique à 0° (et non le nord magnétique). Vous pouvez également afficher le chemin le plus court à la surface de la Terre en balayant le panneau de la boussole.
+
+### Comment utiliser
+
+* **1.** Maintenir l'appareil parallèlement au sol, directement devant soi et orienté vers l'extérieur
+* **2.** Appuyer à l'intérieur du cercle de la boussole pour activer le suivi
+* **3.** Pivoter lentement sur soi-même jusqu'à ce qu'une confirmation soit visible ou ressentie
+
+### Widgets
+
+Des widgets sont disponibles
+
