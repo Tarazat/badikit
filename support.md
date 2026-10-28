@@ -1,5 +1,5 @@
 
-# Badi Kit 
+# BadiKit 
 
 
 [FR](#support-de-lapplication) | [EN](#app-support) 
