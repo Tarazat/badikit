@@ -2,7 +2,7 @@
 # Badi Kit 
 
 
-[FR](#support-de-l'application) | [EN](#app-support) 
+[FR](#support-de-lapplication) | [EN](#app-support) 
 
 # App Support
 
