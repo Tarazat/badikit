@@ -1,4 +1,5 @@
-# BadiKit 
+# Badi Kit 
+
 [FR](#politique-de-confidentialité) | [EN](#privacy-policy) 
 
 
