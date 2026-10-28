@@ -1,16 +1,17 @@
 
-# BadiKit 
+# Badi Kit 
 
+Support [EN](#app-support) [FR](#support-de-lapplication)
 
-[FR](#support-de-lapplication) | [EN](#app-support) 
 
 # App Support
 
 ## Contact 
 
-For further questions or assistabce you may contact us at badikit@protonmail.com
+For further questions or assistance please contact: badikit@protonmail.com
+Badi Kit is developed by Shamim Dehghani
 
-## Help & Details
+## App Help & Details
 
 ### 1. Dates
 
@@ -38,9 +39,12 @@ Widgets are available
 
 # Support de l'application
 
-## Contact Fr.
+## Contact 
 
-## Help & Details Fr.
+Pour toute question ou assistance supplémentaire, veuillez contacter : badikit@protonmail.com
+Badi Kit est développé par Shamim Dehghani
+
+## Aide et détails de l'application
 
 ### 1. Dates
 
