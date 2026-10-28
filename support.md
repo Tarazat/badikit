@@ -1,11 +1,11 @@
 
 # Badi Kit 
 
-Support 28/10/2026
+**Support** 28/10/2026
 
 [EN](#app-support) | [FR](#support-de-lapplication)
 
----
+----
 # App Support
 
 ## Contact 
@@ -39,7 +39,7 @@ Align the red and blue compass hands.
 
 Widgets are available
 
----
+----
 # Support de l'application
 
 ## Contact 
@@ -72,4 +72,4 @@ Le relèvement est calculé par rapport au nord géographique à 0° (et non le 
 
 Des widgets sont disponibles
 
----
+----
