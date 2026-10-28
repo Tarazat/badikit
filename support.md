@@ -8,13 +8,15 @@
 
 ## Contact 
 
+For further questions or assistabce you may contact us at badikit@protonmail.com
+
 ## Help & Details
 
 ### 1. Dates
 
 The Bahá’í Calendar is known as the Badí‘ Calendar.
 The current date is displayed at the top of the Kit screen. Each day begins at sunset.
-More details can be found at Bahai.org https://www.bahai.org/action/devotional-life/calendar
+More details can be found at [Bahai.org](https://www.bahai.org/action/devotional-life/calendar)
 
 ### 2. Qiblih Compass
 
@@ -36,9 +38,9 @@ Widgets are available
 
 # App Support Fr
 
-## Contact
+## Contact Fr.
 
-## Contact Fr
+## Help & Details Fr.
 
 ### 1. Dates
 
