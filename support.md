@@ -1,7 +1,7 @@
 
 # Badi Kit 
 
-Support [EN](#app-support)|[FR](#support-de-lapplication)
+[EN](#app-support)|[FR](#support-de-lapplication)
 
 ---
 # App Support
