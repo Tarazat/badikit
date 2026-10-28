@@ -2,9 +2,9 @@
 # Badi Kit 
 
 
-[FR](#politique-de-confidentialité) | [EN](#privacy-policy) 
+[FR](#support-de-l'application) | [EN](#app-support) 
 
-# App Support En
+# App Support
 
 ## Contact 
 
@@ -36,7 +36,7 @@ Align the red and blue compass hands.
 Widgets are available
 
 
-# App Support Fr
+# Support de l'application
 
 ## Contact Fr.
 
