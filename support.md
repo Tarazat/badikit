@@ -1,14 +1,15 @@
 
 # Badi Kit 
 
-Support [EN](#app-support) [FR](#support-de-lapplication)
+Support [EN](#app-support)|[FR](#support-de-lapplication)
 
-
+---
 # App Support
 
 ## Contact 
 
 For further questions or assistance please contact: badikit@protonmail.com
+
 Badi Kit is developed by Shamim Dehghani
 
 ## App Help & Details
@@ -36,12 +37,13 @@ Align the red and blue compass hands.
 
 Widgets are available
 
-
+---
 # Support de l'application
 
 ## Contact 
 
 Pour toute question ou assistance supplémentaire, veuillez contacter : badikit@protonmail.com
+
 Badi Kit est développé par Shamim Dehghani
 
 ## Aide et détails de l'application
@@ -68,3 +70,4 @@ Le relèvement est calculé par rapport au nord géographique à 0° (et non le 
 
 Des widgets sont disponibles
 
+---
